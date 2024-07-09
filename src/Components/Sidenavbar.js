@@ -17,7 +17,7 @@ function Sidenavbar() {
       <Row>
 <Col>
 <Button className='abc'><h1>Device</h1>Product</Button><br/><br/><br/>
-       <Link to ='/Overview'><Button className='ghf'><p> <SignalCellularAltIcon/>overview</p></Button></Link><br/><br/>
+       <Link to ='/reactapp'><Button className='ghf'><p> <SignalCellularAltIcon/>overview</p></Button></Link><br/><br/>
         <Link to='/Customer'><p><PeopleIcon/>Customers</p></Link>
         <Link to='/Account'><p>< PersonIcon/>Account</p></Link>
        <Link to='/Login'><p><LockOpenIcon/>Login</p></Link>

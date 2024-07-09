@@ -25,7 +25,7 @@ function App() {
         <Col sm={10}>
           <Routes>
           <Route path='/Customer' exact Component={Customer}/>
-          <Route path ='/Overview' exact Component={Overview}/>
+          <Route path ='/reactapp' exact Component={Overview}/>
           <Route path='/Account' exact Component={Account}/>
           <Route path='/Login' exact Component={Login}/>
           <Route path='/Graph' exact Component={Graph}/>
